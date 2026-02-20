@@ -1,4 +1,6 @@
 # Terminal Fireworks
+**This is vibecoded!**
+
 
 A Python script that displays animated fireworks in your terminal.
 
